@@ -27,7 +27,7 @@
         },
         {
           "order": 6,
-          "component": { "tag": "CustomerReviews", "Props": { "style": 2 } }
+          "component": { "tag": "CustomerReviews", "Props": { "style": 1 } }
         },
         {
           "order": 7,

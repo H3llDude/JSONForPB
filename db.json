@@ -4,7 +4,7 @@
       "pagename": "Nike",
       "URL": "/Nike",
       "childrenComponents": [
-        { "order": 0, "component": { "tag": "nav", "Props": {} } },
+        { "order": 0, "component": { "tag": "nav", "Props": { "style": 1 } } },
         {
           "order": 1,
           "component": { "tag": "Hero", "Props": { "imgfirst": false } }

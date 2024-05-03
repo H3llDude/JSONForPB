@@ -3,29 +3,29 @@
     {
       "pagename": "Nike",
       "URL": "/Nike",
-      "childrenComponents": {
-        "Hero": { "order": 1, "component": { "tag": "<Hero />", "Props": "" } },
-        "popularProducts": {
+      "childrenComponents": [
+        { "order": 1, "component": { "tag": "<Hero />", "Props": "" } },
+        {
           "order": 2,
           "component": { "tag": "<PopularProducts />", "Props": "" }
         },
-        "QualitySection": {
+        {
           "order": 3,
           "component": { "tag": "<QualitySection />", "Props": "" }
         },
-        "Services": {
+        {
           "order": 4,
           "component": { "tag": "<Services />", "Props": "" }
         },
-        "SpecialOffer": {
+        {
           "order": 5,
           "component": { "tag": "<SpecialOffer />", "Props": "" }
         },
-        "Subscribe": {
+        {
           "order": 6,
           "component": { "tag": "<Subscribe />", "Props": "" }
         }
-      }
+      ]
     },
     { "pagename": "Adidas", "URL": "/Adidas", "childrenComponents": {} },
     { "pagename": "twitter", "URL": "/twitter", "childrenComponents": {} }

@@ -15,7 +15,16 @@
         },
         {
           "order": 3,
-          "component": { "tag": "SuperQuality", "Props": {} }
+          "component": {
+            "tag": "CCard",
+            "Props": {
+              "title": "CARDUS TITLUS",
+              "content": "Laboris adipisicing irure eiusmod laborum non occaecat tempor officia id reprehenderit duis anim esse laborum. ",
+              "backgroundColor": "black",
+              "textColor": "white",
+              "padding": "1rem"
+            }
+          }
         },
         {
           "order": 4,

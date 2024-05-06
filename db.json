@@ -22,7 +22,8 @@
               "content": "Laboris adipisicing irure eiusmod laborum non occaecat tempor officia id reprehenderit duis anim esse laborum. ",
               "backgroundColor": "black",
               "textColor": "white",
-              "padding": "1rem"
+              "padding": "1rem",
+              "height": "700px"
             }
           }
         },

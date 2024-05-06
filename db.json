@@ -79,7 +79,7 @@
       ]
     },
     {
-      "pagename": "Coca",
+      "pagename": "CocaCola",
       "URL": "/CocaCola",
       "childrenComponents": [
         { "order": 0, "component": { "tag": "nav", "Props": { "style": 2 } } },

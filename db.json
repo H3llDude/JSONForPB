@@ -13,7 +13,7 @@
             "Props": {
               "title": "CARDUS TITLUS",
               "content": "Laboris adipisicing irure eiusmod laborum non occaecat tempor officia id reprehenderit duis anim esse laborum. ",
-              "backgroundColor": "black",
+              "backgroundColor": "orange",
               "textColor": "white",
               "padding": "1rem",
               "width": "500px"

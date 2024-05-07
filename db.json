@@ -55,8 +55,8 @@
             "Props": {
               "title": "CARDUS For CocaCola Site",
               "content": "Laboris adipisicing irure eiusmod laborum non occaecat tempor officia id reprehenderit duis anim esse laborum. ",
-              "backgroundColor": ": linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 100%);",
-              "textColor": "white",
+              "backgroundColor": "red",
+              "textColor": "black",
               "padding": "1rem",
               "width": "full"
             }
